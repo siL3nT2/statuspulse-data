@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:00:50.7352541Z",
+  "generatedAt": "2026-11-13T08:15:43.4281414Z",
   "sites": [
     {
       "id": "portfolio",
@@ -7,10 +7,10 @@
       "url": "https://portfjdddomz.netlify.app",
       "state": "up",
       "check": {
-        "time": "2026-11-13T08:00:50.6267293Z",
+        "time": "2026-11-13T08:15:43.2662277Z",
         "ok": true,
         "status": 200,
-        "ms": 605,
+        "ms": 525,
         "error": null
       },
       "uptime": {
@@ -25,10 +25,10 @@
       "url": "https://statuspulse-jdd.netlify.app",
       "state": "up",
       "check": {
-        "time": "2026-11-13T08:00:50.7313379Z",
+        "time": "2026-11-13T08:15:43.419828Z",
         "ok": true,
         "status": 200,
-        "ms": 34,
+        "ms": 119,
         "error": null
       },
       "uptime": {
