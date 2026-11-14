@@ -1,6 +1,18 @@
 [
   {
     "siteId": "statuspulse",
+    "start": "2026-11-14T07:31:32.2138803Z",
+    "end": null,
+    "durationMinutes": null
+  },
+  {
+    "siteId": "portfolio",
+    "start": "2026-11-14T07:31:07.1621449Z",
+    "end": null,
+    "durationMinutes": null
+  },
+  {
+    "siteId": "statuspulse",
     "start": "2026-11-07T00:14:17.8048911Z",
     "end": "2026-11-07T00:42:27.7430128Z",
     "durationMinutes": 28.2
