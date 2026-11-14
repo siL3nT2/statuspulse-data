@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-14T07:31:32.217438Z",
+  "generatedAt": "2026-11-14T07:45:38.1971268Z",
   "sites": [
     {
       "id": "portfolio",
       "name": "My Portfolio",
       "url": "https://portfjdddomz.netlify.app",
-      "state": "down",
+      "state": "up",
       "check": {
-        "time": "2026-11-14T07:31:07.1621449Z",
-        "ok": false,
-        "status": null,
-        "ms": null,
-        "error": "timeout"
+        "time": "2026-11-14T07:45:37.7693152Z",
+        "ok": true,
+        "status": 200,
+        "ms": 327,
+        "error": null
       },
       "uptime": {
-        "last24Hours": 98.96,
+        "last24Hours": 98.97,
         "last7Days": 99.85,
         "last30Days": 99.86
       }
@@ -23,16 +23,16 @@
       "id": "statuspulse",
       "name": "StatusPulse dashboard",
       "url": "https://statuspulse-jdd.netlify.app",
-      "state": "down",
+      "state": "up",
       "check": {
-        "time": "2026-11-14T07:31:32.2138803Z",
-        "ok": false,
-        "status": null,
-        "ms": null,
-        "error": "timeout"
+        "time": "2026-11-14T07:45:38.1944121Z",
+        "ok": true,
+        "status": 200,
+        "ms": 391,
+        "error": null
       },
       "uptime": {
-        "last24Hours": 98.96,
+        "last24Hours": 98.97,
         "last7Days": 99.85,
         "last30Days": 99.71
       }
